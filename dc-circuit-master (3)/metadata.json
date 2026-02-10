@@ -1,0 +1,5 @@
+{
+  "name": "DC Circuit Master",
+  "description": "An interactive educational tool for students to learn and practice series, parallel, and combination DC circuits with AI-powered tutoring and schematic visualizations.",
+  "requestFramePermissions": []
+}
